@@ -1,11 +1,11 @@
-# Anish-Mishra
+# Introduction
 
 # Hi there! 👋 I am Anish Mishra
 
 Welcome to my GitHub page! I'm a highly motivated and skilled Softwate Developer Engineer. I'm passionate about exploring innovative solutions to complex real world problems.
 
 ## About Me
-- 🔬 SDE 
+- 🔬 SDE | Looking for Internship or Internship Opportunity
 - 💼 Currently working on AI-Driven Resume Reviewer Tool
 - 🌱 Learning Docker, GCP, React.js
 
